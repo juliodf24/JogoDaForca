@@ -1,0 +1,7 @@
+6
+melancia
+morango
+uva
+laranja
+teste1
+teste2
