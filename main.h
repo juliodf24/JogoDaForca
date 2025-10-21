@@ -7,3 +7,4 @@ void chuta();
 void desenharForca();
 void escolhePalavra();
 void adicionaPalavra();
+int chutesErrados();
